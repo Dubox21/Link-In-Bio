@@ -13,7 +13,8 @@ Tu tarea es replicar el diseño de la imagen de referencia que se encuentra deba
 Este desafío no solo busca evaluar tu habilidad técnica, sino también tu capacidad para replicar y mejorar un diseño existente.  ¡Buena suerte!
 
 ## Stack utilizado
-![alt text](image-1.png) ![alt text](image-2.png) ![alt text](image-3.png)
+![alt text](image-1.png) ![alt text](image-2.png) ![alt text](image-3.png) ![image](https://github.com/Dubox21/Link-In-Bio/assets/84655244/a7c74d42-8c85-4a0d-bf4e-f05423ac27e1)
+
 
 
 ## Screenshots y vista previa
