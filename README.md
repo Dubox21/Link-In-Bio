@@ -13,19 +13,15 @@ Tu tarea es replicar el diseño de la imagen de referencia que se encuentra deba
 Este desafío no solo busca evaluar tu habilidad técnica, sino también tu capacidad para replicar y mejorar un diseño existente.  ¡Buena suerte!
 
 ## Stack utilizado
-![html-1080x500](https://github.com/Dubox21/Link-In-Bio/assets/84655244/dd73f3ad-036e-461c-afb3-5a1069f25d13) ![CSS3_logo_and_wordmark svg](https://github.com/Dubox21/Link-In-Bio/assets/84655244/c5d5c984-e03b-4202-9a47-1c81f9701304)
-
- ![GitHub_Invertocat_Logo svg](https://github.com/Dubox21/Link-In-Bio/assets/84655244/7c778ecf-5ec3-4482-9335-2e35db157ef4)
-
-
-
+![html-1080x500](https://github.com/Dubox21/Link-In-Bio/assets/84655244/dd73f3ad-036e-461c-afb3-5a1069f25d13) ![CSS3_logo_and_wordmark svg](https://github.com/Dubox21/Link-In-Bio/assets/84655244/c5d5c984-e03b-4202-9a47-1c81f9701304) ![GitHub_Invertocat_Logo svg](https://github.com/Dubox21/Link-In-Bio/assets/84655244/7c778ecf-5ec3-4482-9335-2e35db157ef4)
 
 ## Screenshots y vista previa
 Version Mobile
-![alt text](image-4.png)
+![image](https://github.com/Dubox21/Link-In-Bio/assets/84655244/e9bb02aa-b176-4674-b7d8-a7d8f9387446)
 
 Version Desktop
-![alt text](image-5.png)
+![image](https://github.com/Dubox21/Link-In-Bio/assets/84655244/6211c5ff-7212-448d-bd2f-3831111b6af2)
+
 
 ## Instalación
 Clonar repositorio 
