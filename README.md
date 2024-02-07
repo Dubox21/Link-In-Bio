@@ -17,9 +17,11 @@ Este desafío no solo busca evaluar tu habilidad técnica, sino también tu capa
 
 ## Screenshots y vista previa
 Version Mobile
+
 ![image](https://github.com/Dubox21/Link-In-Bio/assets/84655244/e9bb02aa-b176-4674-b7d8-a7d8f9387446)
 
 Version Desktop
+
 ![image](https://github.com/Dubox21/Link-In-Bio/assets/84655244/6211c5ff-7212-448d-bd2f-3831111b6af2)
 
 
