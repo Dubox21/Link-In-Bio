@@ -13,7 +13,9 @@ Tu tarea es replicar el diseño de la imagen de referencia que se encuentra deba
 Este desafío no solo busca evaluar tu habilidad técnica, sino también tu capacidad para replicar y mejorar un diseño existente.  ¡Buena suerte!
 
 ## Stack utilizado
-![alt text](image-1.png) ![alt text](image-2.png) ![alt text](image-3.png) ![GitHub_Invertocat_Logo svg](https://github.com/Dubox21/Link-In-Bio/assets/84655244/7c778ecf-5ec3-4482-9335-2e35db157ef4)
+![html-1080x500](https://github.com/Dubox21/Link-In-Bio/assets/84655244/dd73f3ad-036e-461c-afb3-5a1069f25d13) ![CSS3_logo_and_wordmark svg](https://github.com/Dubox21/Link-In-Bio/assets/84655244/c5d5c984-e03b-4202-9a47-1c81f9701304)
+
+ ![GitHub_Invertocat_Logo svg](https://github.com/Dubox21/Link-In-Bio/assets/84655244/7c778ecf-5ec3-4482-9335-2e35db157ef4)
 
 
 
