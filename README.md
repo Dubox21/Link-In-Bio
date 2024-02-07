@@ -26,7 +26,7 @@ Version Desktop
 
 
 ## Instalación
-Clonar repositorio 
+Clonar repositorio https://github.com/Dubox21/Link-In-Bio.git
 
 ## Licencia
 [MIT](https://choosealicense.com/licenses/mit/)
